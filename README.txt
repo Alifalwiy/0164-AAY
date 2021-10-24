@@ -1,0 +1,3 @@
+G.231.19.0164 - Alif Alwi Yahya Kota Semarangstash@{0}: WIP on Pr5-0164-AAY: ec9dca1 Merge Branch
+stash@{1}: WIP on Pr5-0164-AAY: 14f275c Praktikum 5
+stash@{2}: WIP on Pr5-0164-AAY: ec9dca1 Merge Branch
